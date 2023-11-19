@@ -1,3 +1,4 @@
+/* 
 h1 {
 color: red;;
 }
@@ -10,4 +11,40 @@ button{
 }
 body {
     background-color:#D5FFD0;
+} */ 
+ p {
+  text-align: none;
+  font-family:Arial, Helvetica, sans-serif;
+  line-height:20px;
+ }
+ h2
+  {
+    text-align:center;
+    text-decoration:brown wavy underline;
+ }
+ a 
+ {
+    text-decoration:none;
+ }
+h2
+{
+    font-weight: 100;
+}
+h3
+{
+    text-transform:lowercase;
+    font-weight:250;
+}
+h4
+{
+    font-weight:900;
+}
+#one{
+    font-size:10px;
+}
+#two{
+    font-size:30px;
+}
+#three{
+    font-size:60;
 }
